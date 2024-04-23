@@ -21,6 +21,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Kali](https://img.shields.io/badge/kali-4285F4?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 
 ### Trabalhos
 <div>
