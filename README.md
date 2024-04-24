@@ -1,10 +1,12 @@
 <div>
+     <img align="rigth"width=15% src="https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif"/>
+     <img align="right"width=15% src="https://media.tenor.com/IRFM1RzwxV0AAAAi/goku-dance.gif"/>
     <p align="center"> Hello, my name is Leonidas Queiroz</p>
     <p align="center">B.T.I</p>
 
 <div>
   <a href="https://github.com/LeonidasMesquita">
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=LeonidasMesquita&show_icons=true&theme=dark"/>
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=LeonidasMesquita&show_icons=true&theme=neon"/>
 </div>
     
 ### Conhecimento em
